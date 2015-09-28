@@ -1,6 +1,8 @@
 # 21-s-Arcade
 A 2 in 1 game in python, using pygame.
 
+For more details: [blog] (http://mananworks.blogspot.in/2014/04/21s-arcade-python-pygame-project.html)
+
 
 ## In-short
 
@@ -8,6 +10,18 @@ A 2 in 1 game in python, using pygame.
 
 The complete learning and development procedure took 21 hours, hence the name. Also, coincidentally, the date of project completion, class roll number of the developer (that's me), and the century it was developed in; all equal 21.
 
+## Tools Used
+
+python
+pygame
+py2exe
+photoshop
+
+## Date of completion
+21 April 2014. (Day Before the techFest-TechnoGyan)
+
+## Developer
+Manan Singh
 
 
 ## Details

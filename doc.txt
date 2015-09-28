@@ -1,0 +1,23 @@
+Info
+---------------------
+21's Arcade is a 2-in-1 PC game, written in python using pygame library. The 2 games it offers are : Snake and Space Trek.
+
+The complete learning and development procedure took 21 hours, hence the name. Also, coincidentally, the date of project completion, class roll number of the developer (that's me), and the century it was developed in; all equal 21.
+
+
+Tools Used
+-------------------
+python
+pygame
+py2exe
+photoshop
+
+
+Date of Completion
+--------------------
+21 April 2014
+
+
+Developer
+----------------------
+Manan Singh
