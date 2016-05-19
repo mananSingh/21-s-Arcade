@@ -1,0 +1,1 @@
+This directory should also contain "mmusic.wav" for background (music) score for the game.
