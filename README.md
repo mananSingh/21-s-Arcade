@@ -1,10 +1,9 @@
 # 21-s-Arcade
 A 2 in 1 game in python, using pygame.
 
-For more details: [blog] (http://mananworks.blogspot.in/2014/04/21s-arcade-python-pygame-project.html)
+![21's Arcade logo](https://github.com/mananSingh/21-s-Arcade/blob/master/logo.png)
 
-![21's Arcade logo]
-(https://github.com/mananSingh/21-s-Arcade/blob/master/logo.png)
+[Screencast](https://www.youtube.com/watch?v=u7l-sW_t9tA)
 
 ## In-short
 
@@ -14,9 +13,9 @@ The complete learning and development procedure took 21 hours, hence the name. A
 
 ## Tools Used
 
-python
-pygame
-py2exe
+python,
+pygame,
+py2exe,
 photoshop
 
 ## Date of completion
@@ -47,19 +46,23 @@ This was a first game project in python and pygame. Much better and cooler games
 
 ## Screenshots
 
-![screenshot 1 - about] (https://github.com/mananSingh/21-s-Arcade/blob/master/screens/about.png)
+![screenshot 1 - about](https://github.com/mananSingh/21-s-Arcade/blob/master/screens/about.png)
 
-![screenshot 2 - main1] (https://github.com/mananSingh/21-s-Arcade/blob/master/screens/main1.png)
+![screenshot 2 - main1](https://github.com/mananSingh/21-s-Arcade/blob/master/screens/main1.png)
 
-![screenshot 3 - main2] (https://github.com/mananSingh/21-s-Arcade/blob/master/screens/main2.png)
+![screenshot 3 - main2](https://github.com/mananSingh/21-s-Arcade/blob/master/screens/main2.png)
 
-![screenshot 3.2 - main3] (https://github.com/mananSingh/21-s-Arcade/blob/master/screens/main3.png)
+![screenshot 3.2 - main3](https://github.com/mananSingh/21-s-Arcade/blob/master/screens/main3.png)
 
-![screenshot 4 - snake1] (https://github.com/mananSingh/21-s-Arcade/blob/master/screens/snake1.png)
+![screenshot 4 - snake1](https://github.com/mananSingh/21-s-Arcade/blob/master/screens/snake1.png)
 
-![screenshot 5 - snake2] (https://github.com/mananSingh/21-s-Arcade/blob/master/screens/snake2.png)
+![screenshot 5 - snake2](https://github.com/mananSingh/21-s-Arcade/blob/master/screens/snake2.png)
 
-![screenshot 6 - spacetrek1] (https://github.com/mananSingh/21-s-Arcade/blob/master/screens/spacetrek1.png)
+![screenshot 6 - spacetrek1](https://github.com/mananSingh/21-s-Arcade/blob/master/screens/spacetrek1.png)
 
-![screenshot 7 - spacetrek2] (https://github.com/mananSingh/21-s-Arcade/blob/master/screens/spacetrek2.png)
+![screenshot 7 - spacetrek2](https://github.com/mananSingh/21-s-Arcade/blob/master/screens/spacetrek2.png)
+
+
+## Reference book
+- "Invent Your Own Computer Games with Python" by Al Sweigart
 
